@@ -1,0 +1,34 @@
+{
+	"datos" : {
+		"texto1" : {
+			"Titulo" : "A mi Ciudad Nativa", 
+			"Lectura" : "Noble rincón de mis abuelos: nada como evocar, cruzando callejuelas, los tiempos de la cruz y la espada, del ahumado candil y las pajuelas... Pues ya pasó, ciudad amurallada, tu edad de folletín... Las carabelas se fueron para siempre de tu rada... ¡Ya no viene el aceite en botijuelas! Fuiste heroica en los tiempos coloniales, cuando tus hijos, águilas caudales, no eran una caterva de vencejos. Mas hoy, plena de rancio desaliño, bien puedes inspirar ese cariño que uno le tiene a sus zapatos viejos...", 
+			"Autor" : "Luis Carlos López",
+			"Preguntas" : [
+				{ "Pregunta" : "Las carabelas...",
+				  "Respuestas" : [ "Se fueron de su rada", "Trajeron la rada", "Salieron de su grada", "Destruyeron su grada"],
+				  "Correcta": "Se fueron de su rada"
+				},	
+				{ "Pregunta" : "Los tiempos de...",
+				  "Respuestas" : [ "La cruz y la navaja", "El crucifijo y daga", "La cruz y espada", "El aceite y el vino"],
+				  "Correcta": "La cruz y espada"
+				},
+				{ "Pregunta" : "¿A qué hace referencia el autor con caterva de vencejos? ",
+				  "Respuestas" : [ "Se fueron de su rada", "Personas que no sirven para nada", "Personas que hacen obras sociales", "Personas que dirigen una localidad"],
+				  "Correcta": "Se fueron de su rada"
+				},
+				{ "Pregunta" : "Antónimo de evocar",
+				  "Respuestas" : [ "Recordar", "Olvidar", "Rememorar", "Personas que dirigen una localidad"],
+				  "Correcta": "Olvidar"
+				},
+				{ "Pregunta" : "En sus años coloniales",
+				  "Respuestas" : [ "Gozo de privilegios", "Tuvo hombres patrios e idealistas", "Llevó en alto el nombre de su gente", "Fue heroica"],
+				  "Correcta": "Fue heroica"
+				}
+			]
+		}, 
+		"texto2" : {
+
+		} 
+	}
+}
