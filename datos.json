@@ -4,31 +4,69 @@
 			"Titulo" : "A mi Ciudad Nativa", 
 			"Lectura" : "Noble rincón de mis abuelos: nada como evocar, cruzando callejuelas, los tiempos de la cruz y la espada, del ahumado candil y las pajuelas... Pues ya pasó, ciudad amurallada, tu edad de folletín... Las carabelas se fueron para siempre de tu rada... ¡Ya no viene el aceite en botijuelas! Fuiste heroica en los tiempos coloniales, cuando tus hijos, águilas caudales, no eran una caterva de vencejos. Mas hoy, plena de rancio desaliño, bien puedes inspirar ese cariño que uno le tiene a sus zapatos viejos...", 
 			"Autor" : "Luis Carlos López",
+			"Palabras" : "85",
+			"Numero" : "245",
 			"Preguntas" : [
-				{ "Pregunta" : "Las carabelas...",
+				{ 
+				  "Pregunta" : "Las carabelas...",
 				  "Respuestas" : [ "Se fueron de su rada", "Trajeron la rada", "Salieron de su grada", "Destruyeron su grada"],
 				  "Correcta": "Se fueron de su rada"
 				},	
-				{ "Pregunta" : "Los tiempos de...",
+				{ 
+				  "Pregunta" : "Los tiempos de...",
 				  "Respuestas" : [ "La cruz y la navaja", "El crucifijo y daga", "La cruz y espada", "El aceite y el vino"],
 				  "Correcta": "La cruz y espada"
 				},
-				{ "Pregunta" : "¿A qué hace referencia el autor con caterva de vencejos? ",
+				{ 
+				  "Pregunta" : "¿A qué hace referencia el autor con caterva de vencejos? ",
 				  "Respuestas" : [ "Se fueron de su rada", "Personas que no sirven para nada", "Personas que hacen obras sociales", "Personas que dirigen una localidad"],
 				  "Correcta": "Se fueron de su rada"
 				},
-				{ "Pregunta" : "Antónimo de evocar",
+				{ 
+				  "Pregunta" : "Antónimo de evocar",
 				  "Respuestas" : [ "Recordar", "Olvidar", "Rememorar", "Personas que dirigen una localidad"],
 				  "Correcta": "Olvidar"
 				},
-				{ "Pregunta" : "En sus años coloniales",
+				{
+				  "Pregunta" : "En sus años coloniales",
 				  "Respuestas" : [ "Gozo de privilegios", "Tuvo hombres patrios e idealistas", "Llevó en alto el nombre de su gente", "Fue heroica"],
 				  "Correcta": "Fue heroica"
 				}
 			]
 		}, 
 		"texto2" : {
-
-		} 
+			"Titulo" : "HAY UNA RAZA DE HOMBRES", 
+			"Lectura" : "Hay una raza de hombres inadaptados, una raza que no puede detenerse, hombres que destrozan el corazón a quien se les acerca y vagan por el mundo a su antojo... Recorren los campos y remontan los ríos, escalan las cimas más altas de las montañas; llevan en sí la maldición de la sangre gitana y no saben cómo descansar. Si siguieran siempre en el camino llegarían muy lejos; son fuertes, valientes y sinceros. Pero siempre se cansan de las cosas que ya están, y quieren lo extraño, lo nuevo, siempre.",
+			"Autor" : "Truman Capote",
+			"Palabras" : "90",
+			"Numero" : "425",
+			"Preguntas" : [
+				{ 
+				  "Pregunta" : "El título Hay una raza de hombres indica",
+				  "Respuestas" : [ "El hallazgo de una antigua sociedad humana. ", "La comunión que existe entre los desarraigados", "El descubrimiento de una etnia desconocida", "La memoria escrita de un pueblo extinto."],
+				  "Correcta": "La comunión que existe entre los desarraigados"
+				},	
+				{ 
+				  "Pregunta" : "Usted diría que un ejemplo de hombre inadaptado es alguien que",
+				  "Respuestas" : [ "Regresa siempre al mismo lugar", "Toma el camino ansiando lo desconocido", "Siempre viaja, porque su trabajo se lo exige", "Toma los caminos persiguiendo un amor."],
+				  "Correcta": "Toma el camino ansiando lo desconocido"
+				},
+				{
+				  "Pregunta" : "Una raza de hombres contraria a la que describe el texto de Capote tendría",
+				  "Respuestas" : [ "La ilusión de llegar a alguna parte", "El ansia de conocer nuevas tierras", "La necesidad constante de cambio", "El deseo de viajar frecuentemente."],
+				  "Correcta": "La ilusión de llegar a alguna parte"
+				},
+				{
+				  "Pregunta" : "En el texto Hay una raza de hombres, la posición del autor consiste en",
+				  "Respuestas" : [ "Criticar las actitudes de quienes son crueles con su pareja", "Clasificar a los sujetos que persiguen la última novedad", "Exaltar a los hombres que vagan por el mundo a su antojo. ", "Recordar las características de la maldición gitana."],
+				  "Correcta": "Exaltar a los hombres que vagan por el mundo a su antojo."
+				},
+				{
+				  "Pregunta" : "La tarjeta de presentación de los hombres inadaptados debería decir que son ",
+				  "Respuestas" : [ "Deportistas.", "Banqueros.", "Vendedores.", "Viajeros."],
+				  "Correcta": "Viajeros"
+				}
+			]
+		}
 	}
 }
