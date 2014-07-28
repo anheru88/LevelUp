@@ -1,0 +1,225 @@
+.version.lectura /* version checker */
+{
+	color: #000004;
+	background-color: #243F3B;
+}
+
+.html
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 430px;
+	min-height: 300.5px;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 206px 265px 1px;
+}
+
+#u203
+{
+	z-index: 49;
+	height: 150px;
+	-pie-box-shadow: 0px 0px 14px #7F7F7F;
+	-moz-box-shadow: 0px 0px 14px rgba(0, 0, 0, 0.5);
+	-webkit-box-shadow: 0px 0px 14px -1px rgba(0, 0, 0, 0.5);
+	box-shadow: 0px 0px 14px rgba(0, 0, 0, 0.5);
+	border-color: #000000;
+	position: fixed;
+	top: 0px;
+	background: #202950 url("../images/studybudy-07.png") repeat center center;
+}
+
+#u203-bw
+{
+	z-index: 49;
+}
+
+#u205
+{
+	z-index: 50;
+	width: 509px;
+	position: fixed;
+	top: 31px;
+	left: 50%;
+	margin-left: -263px;
+}
+
+#u206
+{
+	z-index: 51;
+	width: 509px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u208
+{
+	z-index: 52;
+	width: 73px;
+	height: 80px;
+	border-color: #000000;
+	position: relative;
+	margin-right: -10000px;
+	background: transparent url("../images/studybudy-11.png") no-repeat center center;
+	background-size: contain;
+}
+
+#u207-4
+{
+	z-index: 53;
+	width: 436px;
+	min-height: 62px;
+	color: #FFFFFF;
+	font-size: 49px;
+	line-height: 59px;
+	text-align: center;
+	font-family: source-sans-pro, sans-serif;
+	font-weight: 300;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 9px;
+	left: 73px;
+}
+
+#u215-4
+{
+	z-index: 57;
+	width: 149px;
+	min-height: 26px;
+	color: #FFFFFF;
+	font-size: 21px;
+	line-height: 25px;
+	text-align: center;
+	font-family: source-sans-pro, sans-serif;
+	font-weight: 600;
+	position: fixed;
+	top: 93px;
+	left: 50%;
+	margin-left: -183px;
+}
+
+#u217-38
+{
+	z-index: 2;
+	width: 430px;
+	min-height: 270px;
+	position: relative;
+}
+
+#u217-34
+{
+	font-size: 19px;
+	text-align: center;
+	line-height: 23px;
+	color: #202950;
+	font-family: source-sans-pro, sans-serif;
+	font-weight: 900;
+}
+
+#u217-2,#u217-4,#u217-6,#u217-8,#u217-9,#u217-11,#u217-13,#u217-15,#u217-17,#u217-18,#u217-20,#u217-22,#u217-24,#u217-25,#u217-27,#u217-29,#u217-31,#u217-32,#u217-35
+{
+	font-size: 19px;
+	text-align: center;
+	line-height: 23px;
+	font-family: source-sans-pro, sans-serif;
+	font-weight: 400;
+}
+
+#u220
+{
+	z-index: 40;
+	width: 316px;
+	margin-left: 57px;
+	margin-top: 12px;
+	position: relative;
+}
+
+#u221
+{
+	z-index: 41;
+	width: 316px;
+	height: 60px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #22B573;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	-khtml-border-radius: 10px;
+	border-radius: 10px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u222
+{
+	z-index: 42;
+	width: 271px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 12px;
+	left: 23px;
+}
+
+#u224
+{
+	z-index: 43;
+	width: 35px;
+	height: 35px;
+	border-color: #000000;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 3px;
+	background: transparent url("../images/studybudy-12-u224-fr.png") no-repeat center center;
+	background-size: contain;
+}
+
+#u223-4
+{
+	z-index: 44;
+	width: 236px;
+	min-height: 38px;
+	color: #FFFFFF;
+	font-size: 30px;
+	line-height: 36px;
+	text-align: center;
+	font-family: source-sans-pro, sans-serif;
+	font-weight: 300;
+	position: relative;
+	margin-right: -10000px;
+	left: 35px;
+}
+
+#u231
+{
+	z-index: 48;
+	width: 1px;
+	height: 41px;
+	margin-left: 215px;
+	top: -1px;
+	margin-bottom: -1px;
+	position: relative;
+}
+
+.ie #u231
+{
+	background-color: #FFFFFF;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
+}
+
+body
+{
+	position: relative;
+	min-width: 960px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+

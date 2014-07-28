@@ -1,0 +1,148 @@
+.version.resultado /* version checker */
+{
+	color: #000006;
+	background-color: #51C9D5;
+}
+
+.html
+{
+	background: #4067AF url("../images/studybudy-07.png") repeat left top scroll;
+}
+
+#page
+{
+	z-index: 1;
+	width: 868px;
+	min-height: 457.75px;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 49px 37px 0px 55px;
+}
+
+#u694
+{
+	z-index: 2;
+	width: 473px;
+	padding-bottom: 1px;
+	margin-left: 189px;
+	position: relative;
+}
+
+#u692-4
+{
+	z-index: 9;
+	width: 356px;
+	min-height: 61px;
+	color: #FFFFFF;
+	font-size: 51px;
+	line-height: 61px;
+	text-align: center;
+	font-family: source-sans-pro, sans-serif;
+	font-weight: 300;
+	margin-left: 47px;
+	position: relative;
+}
+
+#u693-4
+{
+	z-index: 13;
+	width: 143px;
+	min-height: 20px;
+	color: #FFFFFF;
+	text-align: center;
+	font-family: source-sans-pro, sans-serif;
+	font-weight: 300;
+	margin-left: 149px;
+	margin-top: 10px;
+	position: relative;
+}
+
+#u691-6
+{
+	z-index: 3;
+	width: 473px;
+	min-height: 99px;
+	color: #FFFFFF;
+	font-size: 71px;
+	line-height: 85px;
+	text-align: center;
+	top: -1px;
+	margin-bottom: -1px;
+	position: relative;
+}
+
+#u691
+{
+	font-family: flamenco, sans-serif;
+	font-weight: 400;
+}
+
+#u691-3
+{
+	font-family: fredoka-one, sans-serif;
+	font-weight: 400;
+}
+
+#u695-4
+{
+	z-index: 17;
+	width: 208px;
+	min-height: 60px;
+	color: #FFFFFF;
+	font-size: 21px;
+	line-height: 25px;
+	text-align: center;
+	font-family: source-sans-pro, sans-serif;
+	font-weight: 300;
+	margin-left: 321px;
+	margin-top: 22px;
+	position: relative;
+}
+
+#u696
+{
+	z-index: 21;
+	width: 868px;
+	height: 235px;
+	-pie-box-shadow: 0px 0px 12px #D8D8D8;
+	-moz-box-shadow: 0px 0px 12px rgba(0, 0, 0, 0.15);
+	-webkit-box-shadow: 0px 0px 12px -1px rgba(0, 0, 0, 0.15);
+	box-shadow: 0px 0px 12px rgba(0, 0, 0, 0.15);
+	border-color: #000000;
+	background-color: #FFFFFF;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	-khtml-border-radius: 10px;
+	border-radius: 10px;
+	margin-top: 6px;
+	position: relative;
+}
+
+#u697
+{
+	z-index: 22;
+	width: 68px;
+	height: 54px;
+	margin-left: 400px;
+	position: relative;
+}
+
+.ie #u697
+{
+	background-color: #FFFFFF;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
+}
+
+body
+{
+	position: relative;
+	min-width: 960px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+

@@ -1,0 +1,171 @@
+.version.index /* version checker */
+{
+	color: #0000F9;
+	background-color: #4901C4;
+}
+
+.html
+{
+	background-color: #C1272D;
+}
+
+#page
+{
+	z-index: 1;
+	width: 960px;
+	min-height: 507px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#page_position_content
+{
+	padding-bottom: 38px;
+}
+
+#u74
+{
+	z-index: 2;
+	-pie-box-shadow: 0px 0px 14px #7F7F7F;
+	-moz-box-shadow: 0px 0px 14px rgba(0, 0, 0, 0.5);
+	-webkit-box-shadow: 0px 0px 14px -1px rgba(0, 0, 0, 0.5);
+	box-shadow: 0px 0px 14px rgba(0, 0, 0, 0.5);
+	border-color: #000000;
+	padding-bottom: 40px;
+	background: #3F67AF url("../images/studybudy-07.png") repeat center center;
+}
+
+#u74_align_to_page
+{
+	margin-left: auto;
+	margin-right: auto;
+	width: 960px;
+	position: relative;
+	left: -100px;
+}
+
+#u81-6
+{
+	z-index: 3;
+	width: 473px;
+	min-height: 99px;
+	color: #FFFFFF;
+	font-size: 71px;
+	line-height: 85px;
+	text-align: center;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 40px;
+	left: 338px;
+}
+
+#u81
+{
+	font-family: flamenco, sans-serif;
+	font-weight: 400;
+}
+
+#u81-3
+{
+	font-family: fredoka-one, sans-serif;
+	font-weight: 400;
+}
+
+#u74-bw
+{
+	z-index: 2;
+	height: 139px;
+}
+
+#u84-4
+{
+	z-index: 9;
+	width: 859px;
+	min-height: 200px;
+	color: #FFFFFF;
+	line-height: 35px;
+	font-size: 22px;
+	font-family: source-sans-pro, sans-serif;
+	font-weight: 300;
+	margin-left: 51px;
+	margin-top: 28px;
+	position: relative;
+}
+
+#u102
+{
+	z-index: 13;
+	width: 320px;
+	margin-left: 320px;
+	top: -2px;
+	margin-bottom: -2px;
+	position: relative;
+}
+
+#u86
+{
+	z-index: 14;
+	width: 312px;
+	height: 56px;
+	border-width: 4px;
+	border-style: solid;
+	border-color: #FFFFFF;
+	background-color: transparent;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	-khtml-border-radius: 10px;
+	border-radius: 10px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u101
+{
+	z-index: 15;
+	width: 257px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 11px;
+	left: 32px;
+}
+
+#u93
+{
+	z-index: 16;
+	width: 35px;
+	height: 35px;
+	border-color: #000000;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 4px;
+	background: transparent url("../images/studybudy-09.png") no-repeat center center;
+	background-size: contain;
+}
+
+#u100-4
+{
+	z-index: 17;
+	width: 222px;
+	min-height: 38px;
+	color: #FFFFFF;
+	font-size: 30px;
+	line-height: 36px;
+	text-align: center;
+	font-family: source-sans-pro, sans-serif;
+	font-weight: 300;
+	position: relative;
+	margin-right: -10000px;
+	left: 35px;
+}
+
+body
+{
+	position: relative;
+	min-width: 960px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+

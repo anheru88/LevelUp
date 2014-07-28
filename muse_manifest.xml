@@ -1,0 +1,47 @@
+<manifest alg="2" build="30" opt="true" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1406545249111">
+  <folder name="css">
+    <file name="site_global.css" crc="475048684"/>
+    <file name="instrucciones.css" crc="487793059" ref="instrucciones"/>
+    <file name="resultado.css" crc="106023381" ref="resultado"/>
+    <file name="juego3.css" crc="4195274748" ref="juego3"/>
+    <file name="iefonts_juego3.css" crc="234617519" ref="juego3"/>
+    <file name="lectura.css" crc="69484347" ref="lectura"/>
+    <file name="iefonts_lectura.css" crc="368676622" ref="lectura"/>
+    <file name="juego.css" crc="510671753" ref="juego"/>
+    <file name="iefonts_juego.css" crc="3816135717" ref="juego"/>
+    <file name="juego2.css" crc="219464905" ref="juego2"/>
+    <file name="iefonts_juego2.css" crc="455329599" ref="juego2"/>
+    <file name="index.css" crc="4182311364" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4245411419" ref="index:instrucciones:lectura:juego:juego2:juego3:resultado"/>
+    <file name="museutils.js" crc="353204447" ref="index:instrucciones:lectura:juego:juego2:juego3:resultado"/>
+    <file name="pie.js" crc="3827607177" ref="index:instrucciones:lectura:juego:juego2:juego3:resultado"/>
+    <file name="jquery.watch.js" crc="3923049248" ref="index:instrucciones:lectura:juego:juego2:juego3:resultado"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="323834883" ref="index:instrucciones:lectura:juego:juego2:juego3"/>
+  </folder>
+  <folder name="images">
+    <file name="studybudy-07.png" crc="3973042455" ref="index:lectura:juego:juego2:juego3:resultado"/>
+    <file name="studybudy-09.png" crc="447998774" ref="index"/>
+    <file name="studybudy-08.png" crc="222728417" ref="instrucciones"/>
+    <file name="studybudy-10.png" crc="359131346" ref="instrucciones"/>
+    <file name="studybudy-19.png" crc="4172496112" ref="instrucciones"/>
+    <file name="studybudy-13.png" crc="243161290" ref="instrucciones"/>
+    <file name="studybudy-11.png" crc="3777396828" ref="lectura"/>
+    <file name="studybudy-12-u224-fr.png" crc="420262755" ref="lectura"/>
+    <file name="studybudy-12.png" crc="3856932594" ref="juego:juego2:juego3"/>
+    <file name="studybudy-17.png" crc="141307258" ref="juego:juego2:juego3"/>
+    <file name="studybudy-18.png" crc="63351271" ref="juego"/>
+    <file name="studybudy-16.png" crc="357970737" ref="juego2:juego3"/>
+    <file name="studybudy-20.png" crc="4171852133" ref="juego3"/>
+    <file name="studybudy-14.png" crc="4181607714" ref="juego3"/>
+    <file name="studybudy-15.png" crc="454112115" ref="juego3"/>
+  </folder>
+  <file name="index.html" crc="4244674340" mt="1406542168677" redirect="true"/>
+  <file name="instrucciones.html" crc="169989850" mt="1406542154783" redirect="true"/>
+  <file name="lectura.html" crc="386540484" mt="1406543958774" redirect="true"/>
+  <file name="juego.html" crc="58453526" mt="1406545004997" redirect="true"/>
+  <file name="juego2.html" crc="181754165" mt="1406545092515" redirect="true"/>
+  <file name="juego3.html" crc="406893292" mt="1406545178577" redirect="true"/>
+  <file name="resultado.html" crc="4112832452" mt="1406545005008" redirect="true"/>
+</manifest>

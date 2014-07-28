@@ -1,0 +1,457 @@
+.version.juego3 /* version checker */
+{
+	color: #0000FA;
+	background-color: #0ECFFC;
+}
+
+.html
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 960px;
+	min-height: 506.80000000000064px;
+	padding-bottom: 0px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#page_position_content
+{
+	padding-top: 180px;
+}
+
+#u626
+{
+	z-index: 29;
+	height: 150px;
+	-pie-box-shadow: 0px 0px 14px #7F7F7F;
+	-moz-box-shadow: 0px 0px 14px rgba(0, 0, 0, 0.5);
+	-webkit-box-shadow: 0px 0px 14px -1px rgba(0, 0, 0, 0.5);
+	box-shadow: 0px 0px 14px rgba(0, 0, 0, 0.5);
+	border-color: #000000;
+	position: fixed;
+	top: 0px;
+	background: #00A99D url("../images/studybudy-07.png") repeat center center;
+}
+
+#u626-bw
+{
+	z-index: 29;
+}
+
+#u640
+{
+	z-index: 30;
+	width: 61px;
+	height: 82px;
+	border-color: #000000;
+	position: fixed;
+	top: 40px;
+	left: 50%;
+	margin-left: -181px;
+	background: transparent url("../images/studybudy-12.png") no-repeat center center;
+	background-size: contain;
+}
+
+#u639-4
+{
+	z-index: 31;
+	width: 302px;
+	min-height: 62px;
+	color: #FFFFFF;
+	font-size: 49px;
+	line-height: 59px;
+	text-align: center;
+	font-family: source-sans-pro, sans-serif;
+	font-weight: 900;
+	position: fixed;
+	top: 40px;
+	left: 50%;
+	margin-left: -121px;
+}
+
+#u628-4
+{
+	z-index: 35;
+	width: 266px;
+	min-height: 34px;
+	color: #FFFFFF;
+	font-size: 31px;
+	line-height: 37px;
+	text-align: center;
+	font-family: source-sans-pro, sans-serif;
+	font-weight: 300;
+	position: fixed;
+	top: 87px;
+	left: 50%;
+	margin-left: -121px;
+}
+
+#u632-5
+{
+	z-index: 11;
+	width: 916px;
+	min-height: 46px;
+	margin-left: 22px;
+	position: relative;
+}
+
+#u632-2
+{
+	font-size: 22px;
+	text-align: center;
+	line-height: 26px;
+	font-family: source-sans-pro, sans-serif;
+	font-weight: 300;
+}
+
+#u636
+{
+	z-index: 9;
+	height: 2px;
+	border-color: #000000;
+	background-color: #00A99D;
+}
+
+#u636-bw
+{
+	z-index: 9;
+	margin-top: 30px;
+	height: 2px;
+}
+
+#u645
+{
+	z-index: 10;
+	width: 24px;
+	height: 12px;
+	border-color: #000000;
+	margin-left: 468px;
+	top: -2px;
+	margin-bottom: -2px;
+	position: relative;
+	background: transparent url("../images/studybudy-17.png") no-repeat center center;
+	background-size: contain;
+}
+
+#pu642
+{
+	width: 0.01px;
+	margin-left: 39px;
+	margin-top: 50px;
+}
+
+#u642
+{
+	z-index: 17;
+	width: 278px;
+	border-width: 2px;
+	border-style: solid;
+	border-color: #C1272D;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	-khtml-border-radius: 10px;
+	border-radius: 10px;
+	padding-bottom: 16px;
+	margin-bottom: -1px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: -1px;
+	left: -1px;
+	background: #FFFFFF url("../images/studybudy-16.png") no-repeat center center;
+}
+
+#u641
+{
+	z-index: 20;
+	width: 83px;
+	height: 32px;
+	border-width: 2px;
+	border-style: solid;
+	border-color: #C1272D;
+	background-color: #FFFFFF;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	-khtml-border-radius: 5px;
+	border-radius: 5px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 202px;
+	left: 96px;
+}
+
+#u627
+{
+	z-index: 18;
+	width: 278px;
+	border-width: 2px;
+	border-style: solid;
+	border-color: #C1272D;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	-khtml-border-radius: 10px;
+	border-radius: 10px;
+	padding-bottom: 16px;
+	margin-bottom: -1px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: -1px;
+	left: 304px;
+	background: #FFFFFF url("../images/studybudy-16.png") no-repeat center center;
+}
+
+#u647
+{
+	z-index: 21;
+	width: 83px;
+	height: 32px;
+	border-width: 2px;
+	border-style: solid;
+	border-color: #C1272D;
+	background-color: #FFFFFF;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	-khtml-border-radius: 5px;
+	border-radius: 5px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 202px;
+	left: 96px;
+}
+
+#u624
+{
+	z-index: 19;
+	width: 278px;
+	border-width: 2px;
+	border-style: solid;
+	border-color: #C1272D;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	-khtml-border-radius: 10px;
+	border-radius: 10px;
+	padding-bottom: 16px;
+	margin-bottom: -1px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: -1px;
+	left: 601px;
+	background: #FFFFFF url("../images/studybudy-16.png") no-repeat center center;
+}
+
+#u625
+{
+	z-index: 22;
+	width: 83px;
+	height: 32px;
+	border-width: 2px;
+	border-style: solid;
+	border-color: #C1272D;
+	background-color: #FFFFFF;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	-khtml-border-radius: 5px;
+	border-radius: 5px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 202px;
+	left: 96px;
+}
+
+#pu650
+{
+	width: 0.01px;
+	margin-left: -100px;
+	margin-top: 64px;
+}
+
+#u650
+{
+	z-index: 23;
+	height: 98px;
+	border-color: #000000;
+	background: transparent url("../images/studybudy-20.png") no-repeat center top;
+	background-size: cover;
+}
+
+#u650-bw
+{
+	z-index: 23;
+	height: 98px;
+}
+
+#u659
+{
+	z-index: 24;
+	width: 189px;
+	height: 173px;
+	border-width: 2px;
+	border-style: solid;
+	border-color: #00A99D;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	-khtml-border-radius: 10px;
+	border-radius: 10px;
+	margin-bottom: -1px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 48px;
+	left: 236px;
+	background: #FFFFFF url("../images/studybudy-14.png") no-repeat center center;
+}
+
+#u661
+{
+	z-index: 25;
+	width: 189px;
+	height: 173px;
+	border-width: 2px;
+	border-style: solid;
+	border-color: #00A99D;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	-khtml-border-radius: 10px;
+	border-radius: 10px;
+	margin-bottom: -1px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 48px;
+	left: 436px;
+	background: #FFFFFF url("../images/studybudy-14.png") no-repeat center center;
+}
+
+#u663
+{
+	z-index: 26;
+	width: 189px;
+	height: 173px;
+	border-width: 2px;
+	border-style: solid;
+	border-color: #00A99D;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	-khtml-border-radius: 10px;
+	border-radius: 10px;
+	margin-bottom: -1px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 48px;
+	left: 636px;
+	background: #FFFFFF url("../images/studybudy-14.png") no-repeat center center;
+}
+
+#u665
+{
+	z-index: 27;
+	width: 189px;
+	height: 173px;
+	border-width: 2px;
+	border-style: solid;
+	border-color: #00A99D;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	-khtml-border-radius: 10px;
+	border-radius: 10px;
+	margin-bottom: -1px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 48px;
+	left: 836px;
+	background: #FFFFFF url("../images/studybudy-14.png") no-repeat center center;
+}
+
+#u666
+{
+	z-index: 28;
+	width: 90px;
+	height: 126px;
+	border-color: #000000;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 84px;
+	left: 131px;
+	background: transparent url("../images/studybudy-15.png") no-repeat center center;
+}
+
+#u618
+{
+	z-index: 2;
+	width: 316px;
+	margin-left: 322px;
+	margin-top: 104px;
+	position: relative;
+}
+
+#u619
+{
+	z-index: 3;
+	width: 316px;
+	height: 60px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #C1272D;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	-khtml-border-radius: 10px;
+	border-radius: 10px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u620
+{
+	z-index: 4;
+	width: 236px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 11px;
+	left: 40px;
+}
+
+#u621-4
+{
+	z-index: 5;
+	width: 236px;
+	min-height: 38px;
+	color: #FFFFFF;
+	font-size: 30px;
+	line-height: 36px;
+	text-align: center;
+	font-family: source-sans-pro, sans-serif;
+	font-weight: 300;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u623
+{
+	z-index: 16;
+	width: 16px;
+	height: 41px;
+	margin-left: 336px;
+	position: relative;
+}
+
+.ie #u623
+{
+	background-color: #FFFFFF;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
+}
+
+body
+{
+	position: relative;
+	min-width: 960px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+
