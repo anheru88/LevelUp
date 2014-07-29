@@ -2,7 +2,7 @@
 	"datos" : {
 		"texto1" : {
 			"Titulo" : "A mi Ciudad Nativa", 
-			"Lectura" : "Noble rincón de mis abuelos: nada como evocar, cruzando callejuelas, los tiempos de la cruz y la espada, del ahumado candil y las pajuelas... Pues ya pasó, ciudad amurallada, tu edad de folletín... Las carabelas se fueron para siempre de tu rada... ¡Ya no viene el aceite en botijuelas! Fuiste heroica en los tiempos coloniales, cuando tus hijos, águilas caudales, no eran una caterva de vencejos. Mas hoy, plena de rancio desaliño, bien puedes inspirar ese cariño que uno le tiene a sus zapatos viejos...", 
+			"Lectura" : "<p>Noble rincón de mis abuelos: nada</p><p> como evocar, cruzando callejuelas,</p><p> los tiempos de la cruz y la espada,</p><p> del ahumado candil y las pajuelas...</p><p> &nbsp;</p><p> Pues ya pasó, ciudad amurallada,</p><p> tu edad de folletín... Las carabelas</p><p> se fueron para siempre de tu rada...</p><p> ¡Ya no viene el aceite en botijuelas!</p><p> &nbsp;</p><p> Fuiste heroica en los tiempos coloniales,</p><p> cuando tus hijos, águilas caudales,</p><p> no eran una caterva de vencejos.</p><p> &nbsp;</p><p> Mas hoy, plena de rancio desaliño,</p><p> bien puedes inspirar ese cariño</p><p> que uno le tiene a sus zapatos viejos...</p> ",
 			"Autor" : "Luis Carlos López",
 			"Palabras" : "85",
 			"Numero" : "245",
@@ -36,7 +36,7 @@
 		}, 
 		"texto2" : {
 			"Titulo" : "HAY UNA RAZA DE HOMBRES", 
-			"Lectura" : "Hay una raza de hombres inadaptados, una raza que no puede detenerse, hombres que destrozan el corazón a quien se les acerca y vagan por el mundo a su antojo... Recorren los campos y remontan los ríos, escalan las cimas más altas de las montañas; llevan en sí la maldición de la sangre gitana y no saben cómo descansar. Si siguieran siempre en el camino llegarían muy lejos; son fuertes, valientes y sinceros. Pero siempre se cansan de las cosas que ya están, y quieren lo extraño, lo nuevo, siempre.",
+			"Lectura" : "<p>Hay una raza de hombres inadaptados,</p><p> una raza que no puede detenerse,</p><p> hombres que destrozan el corazón a quien se les acerca</p><p> y vagan por el mundo a su antojo...</p><p> Recorren los campos y remontan los ríos,</p><p> escalan las cimas más altas de las montañas;</p><p> llevan en sí la maldición de la sangre gitana</p><p> y no saben cómo descansar.</p><p> &nbsp;</p><p> Si siguieran siempre en el camino</p><p> llegarían muy lejos;</p><p> son fuertes, valientes y sinceros.</p><p> Pero siempre se cansan de las cosas que ya están,</p><p> y quieren lo extraño, lo nuevo, siempre.</p><p> ",
 			"Autor" : "Truman Capote",
 			"Palabras" : "90",
 			"Numero" : "425",
