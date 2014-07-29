@@ -42,6 +42,11 @@ var __adobewebfontsappname__ = "muse";
    <div class="clearfix pinned-colelem" id="u215-4"><!-- content -->
     <p></p>
    </div>
+   <div class="clearfix pinned-colelem" id="u215-5"><!-- content -->
+    <p> Tiempo <strong></strong> Seg </p>
+
+    <p id=""></p>
+   </div>
    <div class="clearfix colelem" id="u217-38"><!-- content -->
   
    </div>
@@ -81,6 +86,7 @@ Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
 
 
 var items = [];
+var segundos = 0;
 $(document).ready(function(){
   $.getJSON("../datos.json", function(data){ 
     $.each(data, function(key, val){  
@@ -93,9 +99,25 @@ $(document).ready(function(){
     $("#u215-4 p").html(datos.Numero);
     $('#u217-38').html(datos.Lectura);
     $('#u217-38').append('<p id="u217-34">'+datos.Autor+'</p><p>&nbsp;</p>');
+
+    
+  });
+
+  setInterval(temporizador, 1000);
+
+  $('#u224, #u223-4').on('click', function(){
+    event.preventDefault();
+    url = "juego.html?&&Texto="+datos.Texto+"&&Segundos="+segundos;
+    window.location=url;
   });
 
 });
+
+function temporizador(){
+  segundos++;
+  $("#u215-5 strong").html(segundos);
+  return segundos;
+}
 
 </script>
    </body>
